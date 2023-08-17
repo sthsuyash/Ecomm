@@ -37,3 +37,5 @@
    ```bash
    yarn dev
    ```
+
+4. From [data.json](../data.json), import the data to your database.
