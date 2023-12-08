@@ -1,6 +1,4 @@
-# Full Stack Developer Technical Test
-
-## - Suyash Shrestha
+# Full Stack Development
 
 ## Installation
 
